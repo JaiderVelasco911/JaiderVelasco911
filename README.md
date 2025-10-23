@@ -16,7 +16,7 @@ I build robust and scalable mobile solutions using **Kotlin** for **Redeban Mult
 
 ## 📫 Contact
 - 📧 [jsvelasco@rbm.com.co](mailto:jsvelasco@rbm.com.co)
-- [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/571234)
+- [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573205199215)
 
 ---
 
